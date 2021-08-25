@@ -16,7 +16,7 @@ export default function contact() {
           rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         ></link>
-        <title>Contact</title>
+        <title>Contacts</title>
         <meta name="keywords" content="Kurt Jacobus"/>
       </Head>
       <main className={styles.main}>
