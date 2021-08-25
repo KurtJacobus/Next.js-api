@@ -20,7 +20,7 @@ export default function contact() {
         <meta name="keywords" content="Kurt Jacobus"/>
       </Head>
       <main className={styles.main}>
-        <h1>Contact</h1>
+        <h1>Contacts</h1>
         <br />
         <div className="row">
           <div className="col">
