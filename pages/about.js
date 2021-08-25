@@ -38,10 +38,7 @@ export default function about() {
       {/* Styling Next.js with Styled JSX */}
       <style jsx>
         {`
-          p {
-            background: #ffeeaa;
-            border-radius: 8px;
-          }
+          
           h1 {
             text-align: center;
           }
