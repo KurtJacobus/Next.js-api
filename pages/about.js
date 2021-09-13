@@ -20,8 +20,7 @@ export default function about() {
           with motorized lego.
         </p>
         <p>
-          In my spare time, I read, take walks, and play board games with the
-          kids.
+          I spend most of my free time with my wife, kids, taking walks, coding, and podcasts. 
         </p>
         <p>
           I completed a certified Full Stack Web Developer Bootcamp in which I
